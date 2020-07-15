@@ -1,16 +1,23 @@
 package com.hyp;
 
-import java.util.concurrent.CountDownLatch;
-import java.util.concurrent.Exchanger;
+import java.util.Queue;
+import java.util.concurrent.*;
 import java.util.concurrent.locks.StampedLock;
 
 public class edddddddd {
     public static void main(String[] args) {
-//        CountDownLatch
+////        VarHandl
+//        Queue ddd = new ConcurrentLinkedQueue();
+//        BlockingQueue = new
+//        try{
+//            int i = 1/0;
+//        }catch (Exception e){
+//
+//        }finally {
+//            System.out.println("finally");
+//        }
+//        Class
     }
 
-//    public boolean isMatch(String s, String p) {
-//
-//    }
 }
 

@@ -20,11 +20,12 @@ public class 线程交替输出2 {
 
         t1 = new Thread(() -> {
                 for (char i = 'A'; i <= 'Z'; i++) {
-                    System.out.println(i);
-                    if (i == 'Z')
-                        i = 'A' - 1;
-                    LockSupport.unpark(t);
                     LockSupport.park();
+                    System.out.println(i);
+                    if (i == 'Z') {
+                        i = 'A' - 1;
+                    }
+                    LockSupport.unpark(t);
                 }
         });
 
