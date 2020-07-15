@@ -1,0 +1,68 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-core:5.2.6.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.2.6.RELEASE/spring-core-5.2.6.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.2.6.RELEASE/spring-core-5.2.6.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.2.6.RELEASE/spring-core-5.2.6.RELEASE-sources.jar!/" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-core" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-core/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-core/src/testFixtures/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-core/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework" />
+      <root url="file://D:/source_code/spring/spring-framework/buildSrc/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/integration-tests/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-aop/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-aop/src/testFixtures/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-aop/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-aspects/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-aspects/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-beans/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-beans/src/testFixtures/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-beans/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-context-indexer/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-context-indexer/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-context-support/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-context-support/src/testFixtures/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-context-support/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-context/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-context/src/testFixtures/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-context/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-expression/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-expression/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-instrument/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-jcl/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-jdbc/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-jdbc/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-jms/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-jms/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-messaging/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-messaging/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-orm/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-orm/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-oxm/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-oxm/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-test/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-test/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-tx/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-tx/src/testFixtures/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-tx/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-web/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-web/src/testFixtures/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-web/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-webflux/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-webflux/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-webmvc/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-webmvc/src/test/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-websocket/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-websocket/src/test/java" />
+      <root url="file://D:/source_code/cglib-3.0-sources/src/proxy" />
+      <root url="file://D:/source_code/cglib-3.0-sources/src/test" />
+      <root url="jar://D:/source_code/cglib-3.0-sources.jar!/src/proxy" />
+      <root url="jar://D:/source_code/cglib-3.0-sources.jar!/src/test" />
+    </SOURCES>
+  </library>
+</component>

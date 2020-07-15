@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-beans:5.2.6.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.2.6.RELEASE/spring-beans-5.2.6.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.2.6.RELEASE/spring-beans-5.2.6.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.2.6.RELEASE/spring-beans-5.2.6.RELEASE-sources.jar!/" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-beans" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-beans/src/main/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-beans/src/testFixtures/java" />
+      <root url="file://D:/source_code/spring/spring-framework/spring-beans/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
